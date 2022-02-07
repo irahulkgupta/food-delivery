@@ -1,0 +1,42 @@
+.headerContainer {
+  margin: 5px 165px;
+  margin-right: 170px;
+}
+.navList {
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px solid rgb(99, 108, 114, 0.2);
+  border-top: 1px solid rgb(99, 108, 114, 0.2);
+}
+.navList ul {
+  display: flex;
+  padding: 0;
+  margin: 0;
+}
+.navListItem {
+  list-style: none;
+  margin: 10px 25px 10px 0;
+}
+.navListItem a {
+  text-decoration: none;
+  color: #454545;
+  opacity: 0.9;
+  text-transform: uppercase;
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.icons {
+  display: flex;
+  align-items: center;
+}
+.icon {
+  height: 20px;
+  margin-right: 8px;
+}
+.icon img {
+  height: 15px;
+}
+.wifi {
+  transform: rotate(50deg);
+}

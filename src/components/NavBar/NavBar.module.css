@@ -1,0 +1,28 @@
+.navbarContainer {
+  background-color: #000;
+  display: flex;
+  justify-content: space-between;
+  padding: 0 150px;
+}
+.left {
+  display: flex;
+  justify-content: space-around;
+}
+.navbarItem {
+  color: #fff;
+  font-size: 13px;
+  font-weight: 500;
+  margin: 10px 15px;
+  text-decoration: none;
+}
+.right {
+  text-transform: uppercase;
+  font-size: 13px;
+  font-weight: 500;
+  color: #fff;
+  display: flex;
+  margin-right: 10px;
+}
+.right span {
+  margin: 10px 15px;
+}

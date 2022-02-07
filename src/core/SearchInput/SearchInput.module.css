@@ -1,0 +1,25 @@
+.container {
+  display: flex;
+}
+.inputclass {
+  outline: none;
+  border: none;
+  font-size: 14px;
+  font-weight: 500;
+  color: #454545;
+  padding: 10px;
+}
+.inputclass::placeholder {
+  font-size: 14px;
+  font-weight: 500;
+}
+.imageContainer {
+  background-color: yellow;
+  height: 41px;
+  display: flex;
+  align-items: center;
+}
+.serachIcon {
+  height: 30px;
+  width: 50px;
+}

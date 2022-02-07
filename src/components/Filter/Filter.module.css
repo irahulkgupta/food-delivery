@@ -1,0 +1,17 @@
+.filterContainer {
+  height: 100%;
+  width: 315px;
+  margin: 22px 10px 10px 15px;
+  display: flex;
+  flex-direction: column;
+}
+
+.filterContainer .text {
+  font-size: 13px;
+}
+.filterText {
+  margin: 10px 0;
+}
+.text {
+  margin: 5px 0;
+}

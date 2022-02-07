@@ -1,0 +1,14 @@
+.checkboxContainer {
+  display: flex;
+  margin: 2.5px 0;
+  align-items: center;
+}
+.checkbox {
+  margin: 0;
+}
+
+.checkboxLabel {
+  color: #454545;
+  font-size: 13px;
+  margin-left: 10px;
+}

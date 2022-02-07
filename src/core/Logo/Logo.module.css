@@ -1,0 +1,16 @@
+.logo {
+  display: flex;
+  flex-direction: column;
+  margin: 10px 0;
+}
+.recipes {
+  font-size: 36px;
+  opacity: 0.8;
+  font-family: Brush Script MT;
+  /* font-family: Lucida Handwriting; */
+}
+.easyMeals {
+  font-size: 22px;
+  font-family: ui-monospace;
+  text-transform: uppercase;
+}
