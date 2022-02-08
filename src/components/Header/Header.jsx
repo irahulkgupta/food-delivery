@@ -6,28 +6,32 @@ import facebook from "../../assets/images/facebook.svg";
 import pinterest from "../../assets/images/pinterest.svg";
 import wifi from "../../assets/images/wifi.svg";
 import youtube from "../../assets/images/youtube.svg";
+import wishlist from "../../assets/images/wishlist.svg";
+import cart from "../../assets/images/cart.svg";
 import Logo from "../../core/Logo/Logo";
+import SearchInput from "../../core/SearchInput/SearchInput";
 const Header = () => {
   return (
     <div className={styles.headerContainer}>
-      <Logo />
+      <div className={styles.logoArea}>
+        <Logo />
+        <SearchInput />
+        <div className={styles.favorites}>
+          <img src={wishlist} alt='wishlist' />
+          Favorites
+        </div>
+        <div className={styles.cart}>
+          <img src={cart} alt='cart' />
+          Cart (0.00)
+        </div>
+      </div>
       <div className={styles.navList}>
         <ul>
-          <li className={styles.navListItem}>
-            <a href='#'>Home</a>
-          </li>
-          <li className={styles.navListItem}>
-            <a href='#'>Categories</a>
-          </li>
-          <li className={styles.navListItem}>
-            <a href='#'>Recipe</a>
-          </li>
-          <li className={styles.navListItem}>
-            <a href='#'>Contact</a>
-          </li>
-          <li className={styles.navListItem}>
-            <a href='#'>About</a>
-          </li>
+          <li className={styles.navListItem}>Home</li>
+          <li className={styles.navListItem}>Categories</li>
+          <li className={styles.navListItem}>Recipe</li>
+          <li className={styles.navListItem}>Contact</li>
+          <li className={styles.navListItem}>About</li>
         </ul>
         <div className={styles.icons}>
           <span className={styles.icon}>

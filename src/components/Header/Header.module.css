@@ -2,6 +2,17 @@
   margin: 5px 165px;
   margin-right: 170px;
 }
+.logoArea {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.favorites img,
+.cart img {
+  height: 15px;
+  width: 15px;
+  margin-right: 10px;
+}
 .navList {
   display: flex;
   justify-content: space-between;
@@ -16,9 +27,6 @@
 .navListItem {
   list-style: none;
   margin: 10px 25px 10px 0;
-}
-.navListItem a {
-  text-decoration: none;
   color: #454545;
   opacity: 0.9;
   text-transform: uppercase;
