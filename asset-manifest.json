@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.55cce6f2.css",
+    "main.js": "/static/js/main.4ae3e86b.js",
+    "static/js/787.b7c9c4a7.chunk.js": "/static/js/787.b7c9c4a7.chunk.js",
+    "static/media/recipe5.png": "/static/media/recipe5.aa704db6e7b10343dd39.png",
+    "static/media/recipe4.png": "/static/media/recipe4.e2c32cc56d870f8d89df.png",
+    "static/media/recipe1.png": "/static/media/recipe1.c105b43e294126d38414.png",
+    "static/media/recipe2.png": "/static/media/recipe2.c9ce31f760920cb562f7.png",
+    "static/media/recipe6.png": "/static/media/recipe6.f987d4aa4633aadf106c.png",
+    "static/media/recipe3.png": "/static/media/recipe3.b40ce8bd073d9f2e624b.png",
+    "static/media/wishlist.svg": "/static/media/wishlist.3f78c778343b6efc584f406c1798bbbc.svg",
+    "static/media/timer.svg": "/static/media/timer.7f05a70f37988467c67d85c2191a889b.svg",
+    "static/media/twitter.svg": "/static/media/twitter.898d947691f46d15a88bfafe1b13a5a5.svg",
+    "static/media/like.svg": "/static/media/like.e9377cd77b2e746f5d0617a16e1a1f2c.svg",
+    "static/media/pinterest.svg": "/static/media/pinterest.78d674f8749f1ec8854e7e4151c610d9.svg",
+    "static/media/wifi.svg": "/static/media/wifi.2bc8513565278b7ee75ccf63f1c71547.svg",
+    "static/media/cart.svg": "/static/media/cart.78885e9f9a9149722b8411be03d6c9ef.svg",
+    "static/media/youtube.svg": "/static/media/youtube.4d291f4181cea6ef7aad777923e65c73.svg",
+    "static/media/facebook.svg": "/static/media/facebook.145b70d3ebc4c999f7ddfbb7449fa5f9.svg",
+    "static/media/searchIcon.svg": "/static/media/searchIcon.2b6609325e0a02c96e2d403ec0f0f690.svg",
+    "index.html": "/index.html",
+    "static/media/instagram.svg": "/static/media/instagram.b0c8109439165d014a2c44af906fd089.svg",
+    "main.55cce6f2.css.map": "/static/css/main.55cce6f2.css.map",
+    "main.4ae3e86b.js.map": "/static/js/main.4ae3e86b.js.map",
+    "787.b7c9c4a7.chunk.js.map": "/static/js/787.b7c9c4a7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55cce6f2.css",
+    "static/js/main.4ae3e86b.js"
+  ]
+}
